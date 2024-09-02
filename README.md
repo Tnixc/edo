@@ -1,4 +1,8 @@
-# Edo - tokyo night + catppuccin macchiato
+<h1 align="center">
+<img height="100" src="https://github.com/user-attachments/assets/4176657a-c2f3-4f0a-817f-fd54587ac311" alt="cool logo" />
+  
+Edo - tokyo night + catppuccin macchiato
+</h1>
 
 This is basically tokyo night colors + catppuccin macchiato background colors. I think it looks nice.
 
