@@ -13,8 +13,8 @@ The ports were made by swapping out the colors in catppuccin ports with my own.
 - All catppuccin userstyles
 - Discord
 - Kitty
-- Neovim
-- Zed
 - Lazygit
+- Neovim
 - Tmux
 - Waybar
+- Zed
