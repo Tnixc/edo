@@ -9,8 +9,9 @@ The ports were made by swapping out the colors in catppuccin ports with my own.
 
 # Themes
 
-- Discord
-- Neovim
-- Kitty
-- Zed
 - All catppuccin userstyles
+- Discord
+- Kitty
+- Neovim
+- Zed
+- lazygit
