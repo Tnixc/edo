@@ -1,4 +1,4 @@
-# My collection of themes
+# Edo - tokyo night + catppuccin macchiato
 
 This is basically tokyo night colors + catppuccin macchiato background colors. I think it looks nice.
 
