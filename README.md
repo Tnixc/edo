@@ -18,6 +18,7 @@ The ports were made by swapping out the colors in catppuccin ports with my own.
 - Btop++
 - Discord
 - Dunst
+- Hyprland
 - Kitty
 - Lazygit
 - Neovim
