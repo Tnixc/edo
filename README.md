@@ -23,6 +23,7 @@ The ports were made by swapping out the colors in catppuccin ports with my own.
 - Lazygit
 - Neovim
 - Polybar
+- Spotify-app (tui theme)
 - Tmux
 - Waybar
 - Zed
