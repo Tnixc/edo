@@ -195,7 +195,7 @@
   --text-link: #6394BF !important;
   --text-link-low-saturation: #5D9AA9;
   --text-positive: #4C8E72;
-  --text-warning: #B8A865;
+  --text-warning: #DCA466;
   --text-danger: #CB7676;
   --text-brand: #6394BF;
   --text-primary: #D8D6C9;
@@ -203,11 +203,11 @@
   --text-tertiary: #999895 !important;
   --text-feedback-positive: #4C8E72;
   --text-feedback-critical: #CB7676;
-  --text-feedback-warning: #B8A865;
+  --text-feedback-warning: #DCA466;
   --text-feedback-info: #6394BF;
   --background-feedback-positive: rgba(76, 142, 114, 0.1);
   --background-feedback-critical: rgba(203, 118, 118, 0.1);
-  --background-feedback-warning: rgba(184, 168, 101, 0.1);
+  --background-feedback-warning: rgba(220, 164, 102, 0.1);
   --background-feedback-info: rgba(99, 148, 191, 0.1);
   --autocomplete-bg: #000000;
   --message-reacted-background: rgba(99, 148, 191, 0.3) !important;
@@ -256,8 +256,8 @@
   --info-positive-background: rgba(76, 142, 114, 0.15);
   --info-positive-foreground: #4C8E72;
   --info-positive-text: #D8D6C9;
-  --info-warning-background: rgba(184, 168, 101, 0.15);
-  --info-warning-foreground: #B8A865;
+  --info-warning-background: rgba(220, 164, 102, 0.15);
+  --info-warning-foreground: #DCA466;
   --info-warning-text: #D8D6C9;
   --info-danger-background: rgba(203, 118, 118, 0.15);
   --info-danger-foreground: #CB7676;
@@ -267,17 +267,17 @@
   --info-help-text: #D8D6C9;
   --status-positive-background: #4C8E72;
   --status-positive-text: #121212;
-  --status-warning-background: #B8A865;
+  --status-warning-background: #DCA466;
   --status-warning-text: #121212;
   --status-danger-background: #CB7676;
   --status-danger-text: #121212;
   --status-danger: #CB7676;
   --status-positive: #4C8E72;
-  --status-warning: #B8A865;
+  --status-warning: #DCA466;
   --black-500: #000000;
   --green-360: #4C8E72;
-  --yellow-360: #B8A865;
-  --yellow-300: #B8A865;
+  --yellow-360: #DCA466;
+  --yellow-300: #DCA466;
   --red-400: #CB7676;
   --red-500: rgb(177.2301587302, 67.2698412698, 67.2698412698);
   --primary-100: #B2B0A6;
@@ -288,16 +288,16 @@
   --white: #D8D6C9;
   --white-400: #D8D6C9;
   --white-500: #D8D6C9;
-  --guild-boosting-pink: #D98AAD;
+  --guild-boosting-pink: #BC76C1;
   --guild-boosting-blue: #6394BF;
   --guild-boosting-purple: #8C6FAA;
-  --premium-perk-yellow: #B8A865;
+  --premium-perk-yellow: #DCA466;
   --premium-perk-purple: #8C6FAA;
   --premium-perk-dark-blue: rgb(69.5272727273, 122.7590909091, 169.4727272727);
   --premium-perk-light-blue: rgb(117.0818181818, 160.4022727273, 198.4181818182);
   --premium-perk-blue: #6394BF;
   --premium-perk-green: #4C8E72;
-  --premium-perk-pink: #D98AAD;
+  --premium-perk-pink: #BC76C1;
   --premium-perk-orange: #CC8D70;
   --premium-tier-0-blue: #6394BF;
   --premium-tier-0-purple: #8C6FAA;
@@ -305,7 +305,7 @@
   --premium-tier-1-dark-blue-for-gradients: #6394BF;
   --premium-tier-2-purple-for-gradients: rgb(114.4978165939, 85.3711790393, 144.6288209607);
   --premium-tier-2-purple-for-gradients-2: #8C6FAA;
-  --premium-tier-2-pink-for-gradients: #D98AAD;
+  --premium-tier-2-pink-for-gradients: #BC76C1;
   --button-danger-background: #CB7676;
   --button-danger-background-hover: rgb(195.9841269841, 99.5158730159, 99.5158730159);
   --button-danger-background-active: rgb(188.9682539683, 81.0317460317, 81.0317460317);
@@ -370,8 +370,8 @@
   --control-brand-foreground-new: #6394BF;
   --mention-foreground: #6394BF;
   --mention-background: rgba(99, 148, 191, 0.3);
-  --background-mentioned: rgba(184, 168, 101, 0.1);
-  --background-mentioned-hover: rgba(184, 168, 101, 0.08);
+  --background-mentioned: rgba(220, 164, 102, 0.1);
+  --background-mentioned-hover: rgba(220, 164, 102, 0.08);
   --background-message-hover: rgba(0, 0, 0, 0.3) !important;
   --background-message-automod: rgba(201, 125, 110, 0.05);
   --background-message-automod-hover: rgba(201, 125, 110, 0.1);
@@ -420,7 +420,7 @@
   --notice-background-critical: #CB7676;
   --notice-background-info: #6394BF;
   --notice-background-positive: #4C8E72;
-  --notice-background-warning: #B8A865;
+  --notice-background-warning: #DCA466;
   --notice-text-critical: #000000;
   --notice-text-info: #000000;
   --notice-text-positive: #000000;
@@ -494,12 +494,12 @@
 .theme-dark svg[class*=tier1BoostPerk_],
 .visual-refresh.theme-dark svg[class*=tier1BoostPerk_],
 .visual-refresh .theme-dark svg[class*=tier1BoostPerk_] {
-  color: #D98AAD !important;
+  color: #BC76C1 !important;
 }
 .theme-dark svg[class*=tier1CustomEmojiPerk_],
 .visual-refresh.theme-dark svg[class*=tier1CustomEmojiPerk_],
 .visual-refresh .theme-dark svg[class*=tier1CustomEmojiPerk_] {
-  color: #B8A865 !important;
+  color: #DCA466 !important;
 }
 .theme-dark svg[class*=tier1UploadPerk_],
 .visual-refresh.theme-dark svg[class*=tier1UploadPerk_],
@@ -519,7 +519,7 @@
 .theme-dark svg[class*=premiumIcon_],
 .visual-refresh.theme-dark svg[class*=premiumIcon_],
 .visual-refresh .theme-dark svg[class*=premiumIcon_] {
-  color: #D98AAD !important;
+  color: #BC76C1 !important;
 }
 .theme-dark svg[class*=gameIcon_],
 .visual-refresh.theme-dark svg[class*=gameIcon_],
@@ -529,12 +529,12 @@
 .theme-dark svg[class*=currentTierIcon_],
 .visual-refresh.theme-dark svg[class*=currentTierIcon_],
 .visual-refresh .theme-dark svg[class*=currentTierIcon_] {
-  color: #D98AAD !important;
+  color: #BC76C1 !important;
 }
 .theme-dark svg[class*=tier3Icon_],
 .visual-refresh.theme-dark svg[class*=tier3Icon_],
 .visual-refresh .theme-dark svg[class*=tier3Icon_] {
-  color: #D98AAD !important;
+  color: #BC76C1 !important;
 }
 .theme-dark svg[class*=searchIcon_],
 .visual-refresh.theme-dark svg[class*=searchIcon_],
@@ -544,7 +544,7 @@
 .theme-dark svg[class*=upsellIcon_],
 .visual-refresh.theme-dark svg[class*=upsellIcon_],
 .visual-refresh .theme-dark svg[class*=upsellIcon_] {
-  color: #D98AAD !important;
+  color: #BC76C1 !important;
 }
 .theme-dark,
 .visual-refresh.theme-dark,
@@ -557,7 +557,7 @@
 .visual-refresh.theme-dark ul[class^=content_] > li[class^=container_] > ul[role=group] > div[class^=spineBorder],
 .visual-refresh .theme-dark ul[class^=content_] > li[class^=container_] > ul[role=group] > div[class^=spineBorder] {
   --step: calc(var(--channels-name-line-height) + 10px);
-  background: var(--thread-muted, repeating-linear-gradient(rgb(101.5, 59, 59) calc(var(--step) * 0), rgb(101.5, 59, 59) calc(var(--step) * 1), rgb(102, 70.5, 56) calc(var(--step) * 1), rgb(102, 70.5, 56) calc(var(--step) * 2), rgb(92, 84, 50.5) calc(var(--step) * 2), rgb(92, 84, 50.5) calc(var(--step) * 3), #264739 calc(var(--step) * 3), #264739 calc(var(--step) * 4), rgb(49.5, 74, 95.5) calc(var(--step) * 4), rgb(49.5, 74, 95.5) calc(var(--step) * 5), rgb(70, 55.5, 85) calc(var(--step) * 5), rgb(70, 55.5, 85) calc(var(--step) * 6)));
+  background: var(--thread-muted, repeating-linear-gradient(rgb(101.5, 59, 59) calc(var(--step) * 0), rgb(101.5, 59, 59) calc(var(--step) * 1), rgb(102, 70.5, 56) calc(var(--step) * 1), rgb(102, 70.5, 56) calc(var(--step) * 2), #6e5233 calc(var(--step) * 2), #6e5233 calc(var(--step) * 3), #264739 calc(var(--step) * 3), #264739 calc(var(--step) * 4), rgb(49.5, 74, 95.5) calc(var(--step) * 4), rgb(49.5, 74, 95.5) calc(var(--step) * 5), rgb(70, 55.5, 85) calc(var(--step) * 5), rgb(70, 55.5, 85) calc(var(--step) * 6)));
 }
 .theme-dark ul[class^=content_] > li[class^=container_] > ul[role=group] > li:nth-of-type(6n + 1),
 .visual-refresh.theme-dark ul[class^=content_] > li[class^=container_] > ul[role=group] > li:nth-of-type(6n + 1),
@@ -580,11 +580,11 @@
 .theme-dark ul[class^=content_] > li[class^=container_] > ul[role=group] > li:nth-of-type(6n + 3),
 .visual-refresh.theme-dark ul[class^=content_] > li[class^=container_] > ul[role=group] > li:nth-of-type(6n + 3),
 .visual-refresh .theme-dark ul[class^=content_] > li[class^=container_] > ul[role=group] > li:nth-of-type(6n + 3) {
-  --channels-default: var(--thread-default, rgba(184, 168, 101, 0.7));
-  --text-primary: var(--thread-core, #B8A865);
-  --interactive-hover: var(--thread-core, #B8A865);
-  --interactive-active: var(--thread-core, #B8A865);
-  --interactive-muted: var(--thread-muted, rgb(92, 84, 50.5));
+  --channels-default: var(--thread-default, rgba(220, 164, 102, 0.7));
+  --text-primary: var(--thread-core, #DCA466);
+  --interactive-hover: var(--thread-core, #DCA466);
+  --interactive-active: var(--thread-core, #DCA466);
+  --interactive-muted: var(--thread-muted, #6e5233);
 }
 .theme-dark ul[class^=content_] > li[class^=container_] > ul[role=group] > li:nth-of-type(6n + 4),
 .visual-refresh.theme-dark ul[class^=content_] > li[class^=container_] > ul[role=group] > li:nth-of-type(6n + 4),
@@ -628,7 +628,7 @@
 .visual-refresh.theme-dark svg[fill="#cc954c"],
 .visual-refresh .theme-dark svg [fill="#cc954c"],
 .visual-refresh .theme-dark svg[fill="#cc954c"] {
-  fill: #B8A865;
+  fill: #DCA466;
 }
 .theme-dark svg [fill="#d83a41"],
 .theme-dark svg[fill="#d83a41"],
@@ -657,7 +657,7 @@
 .theme-dark div[style="background-color: rgb(204, 149, 76);"],
 .visual-refresh.theme-dark div[style="background-color: rgb(204, 149, 76);"],
 .visual-refresh .theme-dark div[style="background-color: rgb(204, 149, 76);"] {
-  background-color: #B8A865 !important;
+  background-color: #DCA466 !important;
 }
 .theme-dark div[style="background-color: rgb(216, 58, 65);"],
 .visual-refresh.theme-dark div[style="background-color: rgb(216, 58, 65);"],
@@ -785,7 +785,7 @@
 .theme-dark .hljs-type,
 .visual-refresh.theme-dark .hljs-type,
 .visual-refresh .theme-dark .hljs-type {
-  color: #B8A865;
+  color: #DCA466;
 }
 .theme-dark .hljs-literal,
 .visual-refresh.theme-dark .hljs-literal,
@@ -815,7 +815,7 @@
 .theme-dark .hljs-regexp,
 .visual-refresh.theme-dark .hljs-regexp,
 .visual-refresh .theme-dark .hljs-regexp {
-  color: #D98AAD;
+  color: #BC76C1;
 }
 .theme-dark .hljs-string,
 .visual-refresh.theme-dark .hljs-string,
@@ -860,7 +860,7 @@
 .theme-dark .hljs-title.class_,
 .visual-refresh.theme-dark .hljs-title.class_,
 .visual-refresh .theme-dark .hljs-title.class_ {
-  color: #B8A865;
+  color: #DCA466;
 }
 .theme-dark .hljs-title.function_,
 .visual-refresh.theme-dark .hljs-title.function_,
@@ -954,7 +954,7 @@
 .theme-dark .hljs-selector-tag,
 .visual-refresh.theme-dark .hljs-selector-tag,
 .visual-refresh .theme-dark .hljs-selector-tag {
-  color: #B8A865;
+  color: #DCA466;
 }
 .theme-dark .hljs-selector-id,
 .visual-refresh.theme-dark .hljs-selector-id,
